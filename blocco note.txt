@@ -4,11 +4,7 @@
 <title> LA CITTA' DI BARCELLONA </title> 
 </head>
 <body>
-<h1> 3ATR sito web </h1>
-<p> primo paragrafo
-       ancora primo paragrafo
-       sempre primo paragrafo
-</p>
+<h1>Barcellona, è il capoluogo della Spagna e della Comunità autonoma della Catalogna. È situata in una limitata pianura costiera al nord dello stato spagnolo, tra i fiumi Llobregat e Besós, ai piedi della catena costiera catalana. </h1>
 <ul> elenco puntato
 <li> mela </li> primo elemento della lista
 <li> kiwi </li>
